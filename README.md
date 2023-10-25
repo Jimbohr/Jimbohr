@@ -3,7 +3,9 @@
 Bienvenido a mi perfil de GitHub. 
 
 ## Sobre mí
-Soy un apasionado del desarrollo web con experiencia en JavaScript, Python y otros. Me encanta aprender cosas nuevas.
+Soy un apasionado del desarrollo web con experiencia en JavaScript, php y otros.
+Me encanta aprender cosas nuevas.
+Soy bastante sociable y cercano.
 
 ## Mis Proyectos
 - [Nombre del Proyecto](link_a_tu_proyecto)
