@@ -8,7 +8,7 @@ Me encanta aprender cosas nuevas.
 Soy bastante sociable y cercano.
 
 ## Mis Proyectos
-- [Nombre del Proyecto](link_a_tu_proyecto)
+- [Omega's Casino Roulette]((https://github.com/LaSalleGraciaDAW-23-24/m06-uf1-pr-23-24-brian-bautista-jaime-higueras))
 - Otro Proyecto 
 
 <!---
